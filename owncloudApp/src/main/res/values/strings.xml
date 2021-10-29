@@ -641,4 +641,6 @@
     <string name="scoped_storage_wizard_migration_in_progress">Migrating your files. Please don’t turn your device off.</string>
     <string name="scoped_storage_wizard_migration_in_progress_button">Working… Please wait</string>
     <string name="scoped_storage_wizard_title">More security for your files</string>
+    <string name="test_managed_configuration_title">Test managed configuration</string>
+    <string name="test_managed_configuration_description">This configuration is used with testing purposes. It provides a string with default value to \'Hello\' but it can be changed!</string>
 </resources>
