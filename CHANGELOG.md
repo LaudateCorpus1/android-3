@@ -11,6 +11,7 @@ Summary
 * Bugfix - Small glitch when side menu is full of accounts: [#3437](https://github.com/owncloud/android/pull/3437)
 * Enhancement - Lock delay for app: [#3344](https://github.com/owncloud/android/issues/3344)
 * Enhancement - Allow access from document provider preference: [#3379](https://github.com/owncloud/android/issues/3379)
+* Enhancement - Respect capability for Avatar support: [#3438](https://github.com/owncloud/android/pull/3438)
 
 Details
 -------
@@ -41,6 +42,14 @@ Details
 
    https://github.com/owncloud/android/issues/3379
    https://github.com/owncloud/android/pull/3384
+
+* Enhancement - Respect capability for Avatar support: [#3438](https://github.com/owncloud/android/pull/3438)
+
+   Previously, the user's avatar was shown by default. Now, it is shown or not depending on a new
+   capability.
+
+   https://github.com/owncloud/android/issues/3285
+   https://github.com/owncloud/android/pull/3438
 
 Changelog for ownCloud Android Client [2.19.0] (2021-11-15)
 =======================================
